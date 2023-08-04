@@ -9,12 +9,7 @@ This project showcases the frontend of an e-commerce website created using HTML,
 - Responsive design for seamless browsing across various devices.
 - Visually appealing product displays with detailed descriptions.
 - Intuitive user interface with smooth animations for enhanced interaction.
-- Cart functionality enabling users to add and review selected items.
 - Modern design principles to ensure an enjoyable and efficient shopping experience.
-
-## Preview
-
-![E-Commerce Website Preview](preview.png)
 
 ## Usage
 
@@ -42,4 +37,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-As before, replace `your-username` with your actual GitHub username and include a "Preview" image (like `preview.png` in the example) to provide a visual representation of your project. Adapt the content to fit your specific project details and preferences.
