@@ -1,7 +1,5 @@
 # Frontend E-Commerce Website
 
-![E-Commerce Website Preview](preview.png)
-
 This project showcases the frontend of an e-commerce website created using HTML, CSS, and JavaScript. The website focuses on delivering an engaging shopping experience to users through a visually appealing and interactive interface.
 
 ## Features
