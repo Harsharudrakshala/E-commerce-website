@@ -21,13 +21,13 @@ This project showcases the frontend of an e-commerce website created using HTML,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/frontend-e-commerce.git
+   git clone https://github.com/Harsharudrakshala/E-commerce-website.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd frontend-e-commerce
+   cd E-commerce-website
    ```
 
 3. Open `index.html` in a web browser to explore the frontend of the website.
